@@ -21,6 +21,7 @@ if (process.env.JD_COOKIE) {
 }
 
 if (!process['\x65\x6e\x76']['\x47\x49\x54\x48\x55\x42']) {
+  console.log(` EXIT··· \n`)
   process['\x65\x78\x69\x74'](0);
 }
 
